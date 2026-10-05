@@ -23,6 +23,7 @@ A modern, responsive gym website built with HTML, CSS, and JavaScript.
 - CSS3
 - JavaScript
 - Git & GitHub
+- ![IronFit Gym Website](./ironfit-preview.png.jpeg)
 
 📂 Project Structure
 
@@ -38,4 +39,4 @@ GYM-website/
 └── video.mp4
 
 
-![IronFit Gym Website](./ironfit-preview.png.jpeg)
+
