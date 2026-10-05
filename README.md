@@ -36,3 +36,6 @@ GYM-website/
 ├── image3.png
 ├── image4.png
 └── video.mp4
+📸 Website Preview
+
+![IronFit Gym Website](ironfit-preview.png)
