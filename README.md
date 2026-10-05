@@ -38,4 +38,4 @@ GYM-website/
 └── video.mp4
 
 
-![IronFit Gym Website](ironfit-preview.png.jpeg)
+![IronFit Gym Website](./ironfit-preview.png.jpeg)
